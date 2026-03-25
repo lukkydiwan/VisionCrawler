@@ -6,6 +6,9 @@ It is designed for environments where data is rendered visually (e.g., canvas-ba
 
 ---
 
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/ccc07beb-b3fa-4a18-94c8-4aeadf2ee2cf" />
+
+
 ## 🎯 Key Idea
 
 Unlike conventional scrapers that rely on HTML structure:
